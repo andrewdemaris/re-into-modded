@@ -1,0 +1,15 @@
+[Concentrator]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Percentage of Magicules regenerated every 5 seconds.
+	magiculeRegenPercent = 0.5
+	#Number of Existence Points the player must have to meet the natural requirements.
+	epRequirement = 1000000.0
+
+[Smelter]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Number of magicules for the player to be capable of learning it.
+	epRequirement = 0.5
+	#Chance for it to double gained items out of 100.
+	doubleChance = 80.0

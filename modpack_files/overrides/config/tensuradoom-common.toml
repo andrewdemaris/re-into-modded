@@ -1,0 +1,34 @@
+#When generating a Conqueror roll, a uniform roll in [1, hao_chance] is used; roll 1 means the player has Conqueror's Haki.
+# Default: 100
+# Range: 1 ~ 1000000
+hao_chance = 100
+
+[mob_farm]
+	#Starting tick interval before the first simulated kill per mob stack (20 ticks = 1 second).
+	# Default: 144000
+	# Range: 20 ~ 2147483639
+	base_timer_ticks = 144000
+	#Floor for drop timer after many captures (cooldown cap).
+	# Default: 3600
+	# Range: 1 ~ 2147483639
+	min_timer_ticks = 3600
+	#Per extra captured mob, effective timer is base / divisor^(count-1), then clamped to min.
+	# Default: 1.05
+	# Range: 1.0 ~ 10.0
+	timer_divisor = 1.05
+	#When at min timer, extra XP multiplier per mob beyond the first in that stack.
+	# Default: 0.04
+	# Range: 0.0 ~ 1.0
+	exp_bonus_per_extra_past_cap = 0.04
+
+[compat]
+	#When true, periodically fixes or removes broken attribute_modifiers on item stacks (Direct/unregistered Attribute holders). Prevents IllegalStateException on world save from mods that attach invalid attribute data to gear.
+	sanitize_item_attribute_holders = true
+	#How often (in ticks) to re-scan the player inventory while logged in. 0 = only on login. Default 100 (5s).
+	# Default: 100
+	# Range: 0 ~ 1200
+	sanitize_item_attribute_interval_ticks = 100
+	#Logs each stripped item attribute modifier (verbose).
+	debug_attribute_sanitizer = false
+	#Logs when bullet_damage_multiplier is applied to Superb Warfare projectile damage (verbose).
+	debug_superb_bullet_damage = false

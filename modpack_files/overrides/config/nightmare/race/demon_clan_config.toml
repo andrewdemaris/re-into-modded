@@ -1,0 +1,271 @@
+[LowerClassDemon]
+	#Minimal aura.
+	minAura = 2000.0
+	#Maximum aura.
+	maxAura = 6000.0
+	#Minimal magicule.
+	minMagicule = 4000.0
+	#Maximum magicule.
+	maxMagicule = 9000.0
+	#Bonus Size.
+	size = 0.1
+	#Bonus Max Health.
+	maxHealth = 12.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 70.0
+	#Bonus Attack Damage.
+	attack = 0.25
+	#Bonus Attack Speed.
+	attackSpeed = -0.2
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.05
+	#Bonus Movement Speed.
+	movementSpeed = 0.0
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#List of intrinsic skills Lower Class Demon can randomly receive.
+	intrinsicPool = ["tensura:self_regeneration", "tensura:magic_sense", "tensura:flame_manipulation"]
+	#How many intrinsic skills are rolled from the pool (if used).
+	intrinsicCount = 0
+
+[MidClassDemon]
+	#EP required to evolve from Lower Class Demon into Mid Class Demon (EvolutionRequirement.EPRequirement).
+	epRequirement = 45000.0
+	#Minimal aura.
+	minAura = 6000.0
+	#Maximum aura.
+	maxAura = 14000.0
+	#Minimal magicule.
+	minMagicule = 10000.0
+	#Maximum magicule.
+	maxMagicule = 22000.0
+	#Bonus Size.
+	size = 0.08
+	#Bonus Max Health.
+	maxHealth = 28.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 130.0
+	#Bonus Attack Damage.
+	attack = 0.45
+	#Bonus Attack Speed.
+	attackSpeed = -0.1
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.1
+	#Bonus Movement Speed.
+	movementSpeed = 0.0
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.0
+	#Intrinsic pool (if used).
+	intrinsicPool = ["tensura:ultraspeed_regeneration"]
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[HighClassDemon]
+	#Minimal aura.
+	minAura = 18000.0
+	#Maximum aura.
+	maxAura = 40000.0
+	#Minimal magicule.
+	minMagicule = 28000.0
+	#Maximum magicule.
+	maxMagicule = 55000.0
+	#Bonus Size.
+	size = 0.05
+	#Bonus Max Health.
+	maxHealth = 45.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 200.0
+	#Bonus Attack Damage.
+	attack = 0.65
+	#Bonus Attack Speed.
+	attackSpeed = 0.0
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.15
+	#Bonus Movement Speed.
+	movementSpeed = 0.01
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.02
+	#Intrinsic pool (if used).
+	intrinsicPool = ["tensura:infinite_regeneration", "tensura:black_flame", "tensura:universal_perception"]
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[DemonKnight]
+	#Minimal aura.
+	minAura = 45000.0
+	#Maximum aura.
+	maxAura = 95000.0
+	#Minimal magicule.
+	minMagicule = 60000.0
+	#Maximum magicule.
+	maxMagicule = 120000.0
+	#Bonus Size.
+	size = 0.05
+	#Bonus Max Health.
+	maxHealth = 70.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 280.0
+	#Bonus Attack Damage.
+	attack = 0.9
+	#Bonus Attack Speed.
+	attackSpeed = 0.05
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.2
+	#Bonus Movement Speed.
+	movementSpeed = 0.015
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.03
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[KnightBlack]
+	#Minimal aura.
+	minAura = 120000.0
+	#Maximum aura.
+	maxAura = 220000.0
+	#Minimal magicule.
+	minMagicule = 150000.0
+	#Maximum magicule.
+	maxMagicule = 280000.0
+	#Bonus Size.
+	size = 0.03
+	#Bonus Max Health.
+	maxHealth = 95.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 380.0
+	#Bonus Attack Damage.
+	attack = 1.15
+	#Bonus Attack Speed.
+	attackSpeed = 0.1
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.25
+	#Bonus Movement Speed.
+	movementSpeed = 0.02
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.04
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[TenCommandment]
+	#Minimal aura.
+	minAura = 150000.0
+	#Maximum aura.
+	maxAura = 320000.0
+	#Minimal magicule.
+	minMagicule = 200000.0
+	#Maximum magicule.
+	maxMagicule = 400000.0
+	#Bonus Size.
+	size = 0.02
+	#Bonus Max Health.
+	maxHealth = 110.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 450.0
+	#Bonus Attack Damage.
+	attack = 1.25
+	#Bonus Attack Speed.
+	attackSpeed = 0.12
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.28
+	#Bonus Movement Speed.
+	movementSpeed = 0.02
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.05
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[HellRizer]
+	#Minimal aura.
+	minAura = 100000.0
+	#Maximum aura.
+	maxAura = 240000.0
+	#Minimal magicule.
+	minMagicule = 140000.0
+	#Maximum magicule.
+	maxMagicule = 300000.0
+	#Bonus Size.
+	size = 0.04
+	#Bonus Max Health.
+	maxHealth = 100.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 400.0
+	#Bonus Attack Damage.
+	attack = 1.2
+	#Bonus Attack Speed.
+	attackSpeed = 0.1
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.26
+	#Bonus Movement Speed.
+	movementSpeed = 0.02
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.04
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[RoyalDemon]
+	#Minimal aura.
+	minAura = 200000.0
+	#Maximum aura.
+	maxAura = 450000.0
+	#Minimal magicule.
+	minMagicule = 280000.0
+	#Maximum magicule.
+	maxMagicule = 520000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 130.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 520.0
+	#Bonus Attack Damage.
+	attack = 1.4
+	#Bonus Attack Speed.
+	attackSpeed = 0.15
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.32
+	#Bonus Movement Speed.
+	movementSpeed = 0.025
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.06
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0
+
+[DemonPrince]
+	#Minimal aura.
+	minAura = 350000.0
+	#Maximum aura.
+	maxAura = 700000.0
+	#Minimal magicule.
+	minMagicule = 450000.0
+	#Maximum magicule.
+	maxMagicule = 850000.0
+	#Bonus Size.
+	size = 0.0
+	#Bonus Max Health.
+	maxHealth = 160.0
+	#Bonus Max Spiritual Health.
+	maxSpiritualHealth = 650.0
+	#Bonus Attack Damage.
+	attack = 1.65
+	#Bonus Attack Speed.
+	attackSpeed = 0.18
+	#Bonus Knockback Resistance.
+	knockbackResistance = 0.36
+	#Bonus Movement Speed.
+	movementSpeed = 0.03
+	#Bonus Swimming Speed Multiplier.
+	swimSpeed = 0.07
+	#Intrinsic pool (if used).
+	intrinsicPool = []
+	#Intrinsic count (if used).
+	intrinsicCount = 0

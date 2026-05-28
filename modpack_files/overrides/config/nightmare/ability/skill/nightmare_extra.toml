@@ -1,0 +1,75 @@
+[Concentrator]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Percentage of Magicules regenerated every 5 seconds.
+	magiculeRegenPercent = 0.5
+	#Number of Existence Points the player must have to meet the natural requirements.
+	epRequirement = 1000000.0
+
+[Smelter]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Number of magicules for the player to be capable of learning it.
+	epRequirement = 0.5
+	#Chance for it to double gained items out of 100.
+	doubleChance = 80.0
+
+[MysticAura]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 1000.0
+	#Percentage of Magicules regenerated every 5 seconds.
+	mpCost = 500.0
+	#Number of Mastered Spells required to obtain.
+	requiredMagics = 20
+	#Number of Mastered Battlewills required to obtain.
+	requiredBattlewills = 10
+	#Duration in Seconds the effect will last when unmastered.
+	durationUnmastered = 30
+
+[SpacetimeDomination]
+	#Ultimate (or skill) resource ids that enable learning Spacetime Domination when possessed. Empty = unobtainable. Designer fill-in, e.g. trnightmare:example_spacetime_ultimate
+	compatibleUltimateSkillIds = ["nightmareutils:sentient", "trnightmare:azathoth", "trnightmare:azazel", "trnightmare:nodens", "trnightmare:samael"]
+	#Time Stop radius in blocks (centered on caster).
+	timeStopRadiusBlocks = 32.0
+	#Time Stop duration in ticks when unmastered (9s = 180).
+	timeStopDurationTicks = 180
+	#Time Stop duration in ticks when mastered (11s = 220).
+	timeStopDurationTicksMastered = 220
+	#Magicule cost per Time Stop use.
+	timeStopMagiculeCost = 250000.0
+	#Learn points required for Time Stop mode.
+	timeStopLearnPoints = 100.0
+	#Time Stop cooldown in seconds.
+	timeStopCooldownSeconds = 120
+	#Snowflake particles per tick while Time Stop is active.
+	timeStopSnowflakesPerTick = 16
+
+[PseudoDragonBody]
+	#Magicule acquirement cost.
+	mpAcquirement = 50000.0
+	#Magicule drained each skill tick (~1 per second) while toggled on.
+	mpDrainPerTick = 500.0
+
+[SpacetimeManipulation]
+	#Space damage multiplier while Spacetime Infliction is toggled (Spatial Domination uses 3.0).
+	spacetimeInflictionBoost = 4.0
+	#Magicule per severance point for Space-Time Cleanse.
+	magiculeCostCleansePerSeverance = 100.0
+	#Cooldown in seconds for Space-Time Cleanse.
+	cleanseCooldown = 3
+	#Maximum blocks for short Spatial Transfer blink.
+	shortTeleportRange = 60.0
+	#Magicule per block for coordinate warp (Spatial Transfer shift).
+	warpMpPerBlock = 5.0
+	#Ultimate skill ids that satisfy the learn gate (§3 may mirror into SpacetimeManipulationCompat).
+	requiredUltimateSkillIds = ["trnightmare:azathoth"]
+
+[Prayer]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Magicule Cost per second.
+	mpCost = 1000.0
+	#Number of Spiritrons generated per subordinate.
+	spPerSub = 1
+	#Maximum number of Spiritrons that can be generated per 5 seconds.
+	spMax = 8

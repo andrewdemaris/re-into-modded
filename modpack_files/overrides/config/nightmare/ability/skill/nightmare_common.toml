@@ -1,0 +1,9 @@
+[InnerWorld]
+	#EP requirement for natural learning.
+	epAcquirement = 100000.0
+	#Minimum base max magicule required to learn.
+	mpAcquirement = 1000.0
+	#Magicule cost to activate.
+	magiculeCost = 0.0
+	#Cooldown in seconds after activation.
+	cooldown = 10

@@ -1,0 +1,20 @@
+[CHATEVENTS]
+	#Are chat events enabled? DEFAULT: true
+	chatEvents = true
+	#Players needed on the server to enable this event? Default: 6
+	PlayersNeeded = 6
+	#COMMON Tier Wins Required DEFAULT: 2
+	PlayersWinCommon = 2
+	#UNCOMMON Tier Wins Required DEFAULT: 8
+	PlayersWinUnCommon = 8
+	#RARE Tier Wins Required DEFAULT: 16
+	PlayersWinRARE = 16
+	#EPIC Tier Wins Required DEFAULT: 25
+	PlayersWinEPIC = 25
+	#LEGENDARY Tier Wins Required DEFAULT: 30
+	PlayersWinLEGENDARY = 30
+	#How many Mins before the checks are done?
+	INTERVAL_MINS = 15
+	#Answer timeout in seconds
+	ANSWER_TIMEOUT = 30
+	Debug = false

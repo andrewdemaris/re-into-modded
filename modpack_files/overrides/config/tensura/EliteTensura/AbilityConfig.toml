@@ -1,0 +1,184 @@
+[MeditationSkill]
+	#True/False Disable this skill?
+	enabled = true
+	#EP Requirement for Learning Meditation.
+	epAcquirement = 500.0
+	#Magicule Cost to activate .
+	magiculeCost = 250.0
+	#Aura Regen rate.
+	auraRegenRate = 0.15
+	#Mana Regen rate
+	manaRegenRate = 0.25
+	#SHP Regen rate
+	shpRegenRate = 0.15
+
+[RaphealSkill]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 8000000.0
+	#The chant speed multiplier when toggled.
+	chantSpeed = 4.0
+	#The bonus number of learning point to gain when toggled.
+	learningPoint = 16.0
+	#The bonus number of mastery point to gain when toggled.
+	masteryPoint = 16.0
+	#The Analysis Level when activated.
+	analysisLevel = 18
+	#The Analysis Level when activated with Mastery.
+	analysisLevelMastered = 32
+	#The Analysis Radius when activated.
+	analysisRadius = 25
+	#The Analysis Radius when activated with Mastery.
+	analysisRadiusMastered = 64
+	#The range in block of Analysis's Copy on mobs.
+	copyRange = 20.0
+	#The range in block of Analysis's Copy on magic circles.
+	copyRangeMagic = 32.0
+	#The chance to success copying skills from targets.
+	copyChance = 50.0
+	#The chance to success copying skills from targets when mastered.
+	copyChanceMastered = 80.0
+	#The cooldown in second when the user successfully copied a skill from targets.
+	copyCooldownSuccess = 10
+	#The cooldown in second when the user failed to copy a skill from targets.
+	copyCooldownFail = 5
+	#How many levels that Rapheal can go above the maximum level of an enchantment.
+	maxBonusLevel = 3
+	#Lists of enchantments that Godly Craftsman cannot learn or add.
+	enchantmentBlacklist = ["tensura:dead_end_rainbow", "tensura:tsukumogami"]
+	#Lists of enchantments that Godly Craftsman cannot learn or add above the enchantment's maximum level.
+	maxBonusBlacklist = ["tensura:dead_end_rainbow", "tensura:holy_coat", "tensura:magic_interference", "tensura:tsukumogami", "tensura:barrier_piercing", "tensura:breathing_support", "tensura:crushing", "tensura:energy_steal", "tensura:elemental_boost", "tensura:elemental_resistance", "tensura:energy_protection", "tensura:holy_weapon", "tensura:intangibility", "tensura:magic_weapon", "tensura:magicule_absorption", "tensura:magic_capacity", "tensura:magic_protection", "tensura:severance", "tensura:slotting", "tensura:soul_eater", "tensura:spiritual_protection", "tensura:severance_protection", "tensura:sturdy", "tensura:swift", "tensura:enervation", "tensura:lethargy", "tensura:sealing", "tensura:stagnation", "tensura:ruination", "tensura:vitality", "tensura:vigor", "tensura:transcendence", "tensura:growth", "tensura:restoration"]
+	#The percentage chance to obtain a Curse Engraving per Engraving on the item.
+	curseChance = 0.03
+
+[OuroborosSkill]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 8000000.0
+	#Magicule Cost to remove each harmful status effect with Isolation.
+	magiculeCostIsolation = 2000.0
+	#Magicule Cost to activate Corrosion.
+	magiculeCostCorrosion = 8000.0
+	#The max range in block of the Predation Mode.
+	predationRange = 10.0
+	#The max range in block of the Predation Mode when mastered.
+	predationRangeMastered = 15.0
+	#The attack damage of the Predation Mode.
+	predationDamage = 350.0
+	#The multiplier of magicule gained from dissolving items with the Isolation Mode.
+	magiculeMultiplier = 4.0
+	#The multiplier of health healed from dissolving items with the Isolation Mode..
+	healthMultiplier = 4.0
+	#The cooldown in second of the Isolation Mode.
+	isolationCooldown = 8
+	#The cooldown in second of the Isolation Mode when mastered.
+	isolationCooldownMastered = 2
+	#Activation Speed Multiplier when activating the Corrosion Mode.
+	corrosionSpeedMultiplier = 0.5
+	#The radius in block of the Corrosion Mode.
+	corrosionRadius = 5.5
+	#The amount of damage dealt onto targets every 10 tick using the Corrosion Mode.
+	corrosionDamage = 50.0
+	#The EP multiplier of targets killed by the Corrosion Mode to be added to the user's Each of Aura and Magicule.
+	corrosionEPSteal = 0.5
+	#The bonus water capacity when the skill is acquired.
+	waterCapacity = 6000.0
+	#The bonus lava capacity when the skill is acquired.
+	lavaCapacity = 6000.0
+	#Magicule Cost to activate Soul Steal.
+	magiculeCostSteal = 1000.0
+	#Magicule Cost to activate Soul Consume.
+	magiculeCostConsume = 1000.0
+	#The radius in block of the Soul Steal mode.
+	stealRadius = 32
+	#The multiplier of HP that the target needs to have below to be affected by the Soul Steal mode.
+	stealHP = 0.4
+	#The multiplier of user's EP that the target needs to have below to be affected by the Soul Steal mode.
+	stealEP = 0.4
+	#The level of Fear that the target needs to have to be affected by the Soul Steal mode.
+	stealFear = 2.0
+	#The duration in tick of the Soul Drain effect applied on targets with Soul Consume.
+	drainDuration = 200
+	#The level of the Soul Drain effect applied on targets with Soul Consume.
+	drainLevel = 3
+	#The chance to obtain skills from targets without killing them with the Predation Mode.
+	predationSkillChance = 80.0
+	#The number of skills to gain from targets at a time without killing them with the Predation Mode.
+	predationSkillNumber = 3
+	#The duration in tick of the Corrosion effect applied by the Predation Mode.
+	predationCorrosionDuration = 200
+	#The level of the Corrosion effect applied by the Predation Mode.
+	predationCorrosionLevel = 4
+	#The multiplier of the target's EP to be turned into the user's EP when killed with the Predation Mode.
+	predationEPSteal = 0.8
+	#The amount of EP that the user drains from target using the Predation Mode.
+	predationEPDrain = 5000.0
+
+[VoidSovereign]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 50000.0
+	domainAuraDrainPerTick = 5.0
+	domainConcealmentLevel = 3
+	domainConcealmentLevelMastered = 5
+	domainDodgeBonus = 25.0
+	domainDodgeInvulnerabilityBonus = 3.0
+	domainChantSpeedMultiplier = 2.0
+	domainPassiveDamage = 8.0
+	domainPassiveDamageMastered = 16.0
+	nullSlashMagiculeCost = 1500.0
+	nullSlashDamage = 150.0
+	nullSlashDamageMastered = 300.0
+	nullSlashSize = 1.4
+	nullSlashSizeMastered = 2.0
+	nullSlashDuration = 80
+	nullSlashDurationMastered = 120
+	nullSlashCooldown = 5
+	nullSlashCooldownMastered = 2
+	eventHorizonAuraCost = 3000.0
+	eventHorizonRange = 20.0
+	eventHorizonRangeMastered = 35.0
+	eventHorizonDamageBonus = 100.0
+	eventHorizonDamageBonusMastered = 555.0
+	eventHorizonDebuffDuration = 120
+	eventHorizonCooldown = 30
+	eventHorizonCooldownMastered = 20
+	soulCollapseMagiculeCost = 5000.0
+	soulCollapseBaseDamage = 60.0
+	soulCollapseBaseDamageMastered = 100.0
+	soulCollapseChargeMultiplier = 1.5
+	soulCollapseChargeMultiplierMastered = 2.5
+	soulCollapseMaxChargeTicks = 60
+	soulCollapseHitRadius = 3.0
+	soulCollapseHitRadiusMastered = 5.0
+	soulCollapseCooldown = 400
+	soulCollapseCooldownMastered = 260
+
+[VoidEdge]
+	mpAcquirement = 8000.0
+	cloakAuraDrainPerTick = 2.0
+	cloakConcealmentLevel = 1
+	cloakConcealmentLevelMastered = 3
+	cloakDodgeBonus = 10.0
+	cloakChantSpeedMultiplier = 1.4
+	voidEdgeMagiculeCost = 800.0
+	voidEdgeDamage = 25.0
+	voidEdgeDamageMastered = 50.0
+	voidEdgeSize = 1.0
+	voidEdgeSizeMastered = 1.4
+	voidEdgeDuration = 60
+	voidEdgeDurationMastered = 90
+	voidEdgeCooldown = 80
+	voidEdgeCooldownMastered = 55
+
+[Iron_Resolve]
+	mpAcquirement = 10000.0
+	hasteAmplifier = 9
+	aegisMaxReduction = 40.0
+	surgeMagiculeCost = 2000.0
+	surgeStrengthAmplifier = 2
+	surgeDurationTicks = 6000
+	surgeDurationMasteredTicks = 12000
+	surgeCooldown = 7200
+	surgeCooldownMastered = 14400
+	lastStandThresholdPct = 40.0
+	lastStandImmunityTicks = 30
+	lastStandResistanceAmplifier = 4
+	lastStandInternalCooldownTicks = 15

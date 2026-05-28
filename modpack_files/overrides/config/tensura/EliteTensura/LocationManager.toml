@@ -1,0 +1,13 @@
+[SpawnProtection]
+	#Lowest Y point for this region.
+	yLevel = -100.0
+	#Highest Y point.
+	yLevelMax = 300.0
+	#Corner1 Pos X1
+	x1 = 250.0
+	#Corner2 Pos X2
+	x2 = -250.0
+	#Corner1 Pos Z1
+	z1 = 250.0
+	#Corner2 Pos Z2
+	z2 = -250.0
