@@ -9,3 +9,7 @@ Do your edits. Commit when you finish a task.
 When you're "Alright, I'm done for now" send a pull request. 
 I'll review them, then you can respond to any comments, and at some point it'll get merged into main. 
 
+Modpack files:
+Only add files that need to be changed here.
+
+Pack.zip - curseforge bundles a modlist and config overrides to let someone download the mods themselves.
