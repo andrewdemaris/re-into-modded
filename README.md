@@ -10,6 +10,6 @@ When you're "Alright, I'm done for now" send a pull request.
 I'll review them, then you can respond to any comments, and at some point it'll get merged into main. 
 
 Modpack files:
-Only add files that need to be changed here.
+What's contained in the modpack.zip, but unzipped because these are what are intended to be edited.
 
 Pack.zip - curseforge bundles a modlist and config overrides to let someone download the mods themselves.
