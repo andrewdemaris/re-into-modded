@@ -2,6 +2,7 @@ How to play: download pack.zip, import it into curseforge
 
 How to edit: 
 First time: Clone main, create a branch. 
+
 You've already done this: Update your branch (pull from main). Don't need a new branch for every time.
 
 Do your edits. Commit when you finish a task. 
