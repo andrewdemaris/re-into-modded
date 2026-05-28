@@ -1,0 +1,254 @@
+#Holy Essence needed to evolve Inversion into Metis
+MetisHolyCost = 25
+#Elemental Essence needed to evolve Inversion into Metis
+MetisElementalCost = 25
+
+[adonaiUltCost]
+	#Soul Essence needed to evolve Tyrant, Infinity Prison and Great Sage into Adonai
+	AdonaiSoulCost = 10
+	#Elder Essence needed to evolve Tyrant, Infinity Prison and Great Sage into Adonai
+	AdonaiElderCost = 10
+	#Ender Essence needed to evolve Tyrant, Infinity Prison and Great Sage into Adonai
+	AdonaiEnderCost = 10
+
+[AmonUltCost]
+	#Elder Essence needed to evolve Greed into Mammon
+	AmonElderEssenceCost = 30
+	#Demon Essence needed to evolve Greed into Mammon
+	AmonDemonEssenceCost = 5
+	#Soul Essence needed to evolve Greed into Mammon
+	AmonSoulEssenceCost = 5
+
+[asmodeusUltCost]
+	#Soul Essence needed to evolve Lust into Asmodeus
+	AsmodeusSoulCost = 10
+	#Elder Essence needed to evolve Lust into Asmodeus
+	AsmodeusElderCost = 10
+	#Life Essence needed to evolve Lust into Asmodeus
+	AsmodeusLifeCost = 10
+
+[archimedesUltCost]
+	#Soul Essence needed to evolve Mathematician into Archimedes
+	ArchimedesSoulCost = 20
+	#Elder Essence needed to evolve Mathematician into Archimedes
+	ArchimedesElderCost = 15
+
+[aphroditeUltCost]
+	#Soul Essence needed to evolve Bewilder into Aphrodite
+	AphroditeSoulCost = 20
+	#Elder Essence needed to evolve Bewilder into Aphrodite
+	AphroditeElderCost = 1
+	#Life Essence needed to evolve Bewilder into Aphrodite
+	AphroditeLifeCost = 10
+
+[banUltCost]
+	#Purgatory Apple needed to evolve Snatch into Ban
+	BanAppleCost = 1
+	#Life Essence needed to evolve Snatch into Ban
+	BanLifeCost = 10
+
+[baelUltCost]
+	#Elder Essence needed to evolve Fallen One into Bael
+	BaelElderCost = 10
+	#Demon Essence needed to evolve Fallen One into Bael
+	BaelDemonCost = 15
+	#Soul Essence needed to evolve Fallen One into Bael
+	BaelSoulCost = 20
+
+[bacchusUltCost]
+	#Soul Essence needed to evolve Lunatic into Bacchus
+	BacchusSoulEssenceCost = 10
+	#Elder Essence needed to evolve Lunatic into Bacchus
+	BacchusElderEssenceCost = 5
+	#Life Essence needed to evolve Lunatic into Bacchus
+	BacchusLifeEssenceCost = 5
+
+[camaelUltCost]
+	#Holy Essence needed to evolve Absolute Severance into Camael
+	CamaelHolyCost = 15
+
+[cthulhuUltCost]
+	#Holy Essence needed to evolve Gabriel and Leviathan into Cthulhu
+	CthulhuHolyCost = 15
+	#Soul Essence needed to evolve Gabriel and Leviathan into Cthulhu
+	CthulhuSoulCost = 15
+	#Elder Essence needed to evolve Gabriel and Leviathan into Cthulhu
+	CthulhuElderCost = 15
+	#Ender Essence needed to evolve Gabriel and Leviathan into Cthulhu
+	CthulhuEnderCost = 15
+
+[deusExMachinaUltCost]
+	#Demon Essence needed to evolve into Deus Ex Machina
+	DeusExDemonCost = 10
+	#Holy Essence needed to evolve into Deus Ex Machina
+	DeusExHolyCost = 10
+	#Elemental Essence needed to evolve into Deus Ex Machina
+	DeusExElementalCost = 10
+	#Hihirokane Ingot needed to evolve into Deus Ex Machina
+	DeusExHihiroCost = 1
+
+[escanorUltCost]
+	#Blaze Essence needed to evolve Sunshine into Escanor
+	EscanorBlazeCost = 15
+	#Holy Essence needed to evolve Sunshine into Escanor
+	EscanorHolyCost = 15
+
+[gabrielUltCost]
+	#Life Essence needed to evolve Cadence into Gabriel
+	GabrielLifeCost = 15
+	#Soul Essence needed to evolve Cadence into Gabriel
+	GabrielSoulCost = 15
+
+[grimoireUltCost]
+	#Soul Essence needed to evolve into Grimoire
+	GrimoireSoulCost = 50
+	#Elder Essence needed to evolve into Grimoire
+	GrimoireElderCost = 1
+	#Elemental Essence needed to evolve into Grimoire
+	GrimoireElementalCost = 50
+
+[hubrisUltCost]
+	#Blood Essence needed to evolve Pride into Hubris
+	HubrisBloodCost = 15
+	#Soul Essence needed to evolve Pride into Hubris
+	HubrisSoulCost = 15
+
+[israfilUltCost]
+	#Holy Essence needed to evolve Inversion into Israfil
+	IsrafilHolyCost = 10
+	#Elemental Essence needed to evolve Inversion into Israfil
+	IsrafilElementalCost = 10
+
+[JibrilUltCost]
+	#Elder Essence needed to evolve Rigor into Jibril
+	JibrilElderEssenceCost = 1
+	#Holy Essence needed to evolve Rigor into Jibril
+	JibrilHolyEssenceCost = 7
+	#Elemental Essence needed to evolve Rigor into Jibril
+	JibrilElementalEssenceCost = 5
+
+[kagetsuchiUltCost]
+	#Blaze Essence needed to evolve Berserk into Kagetsuchi
+	KagetsuchiBlazeCost = 15
+	#Holy Essence needed to evolve Berserk into Kagetsuchi
+	KagetsuchiHolyCost = 15
+
+[kamiUltCost]
+	#Elemental Essence needed to evolve Elementalist into Kami
+	KamiElementalCost = 15
+	#Holy Essence needed to evolve Elementalist into Kami
+	KamiHolyCost = 15
+
+[leonidasUltCost]
+	#Soul Essence needed to evolve Spearhead into Leonidas
+	LeonidasSoulCost = 15
+
+[leviathanUltCost]
+	#Elder Essence needed to evolve Envy into Leviathan
+	LeviathanElderEssenceCost = 15
+	#Elemental Essence needed to evolve Envy into Leviathan
+	LeviathanElementalEssenceCost = 15
+	#Soul Essence needed to evolve Envy into Leviathan
+	LeviathanSoulEssenceCost = 15
+
+[luciferUltCost]
+	#Elder Essence needed to evolve Pride into Lucifer
+	LuciferElderEssenceCost = 10
+	#Demon Essence needed to evolve Pride into Lucifer
+	LuciferDemonEssenceCost = 10
+	#Soul Essence needed to evolve Pride into Lucifer
+	LuciferSoulEssenceCost = 10
+
+[lagunaUltCost]
+	#Holy Essence needed to evolve Laguna into Laguna: Child of Blessing
+	LagunaHolyEssenceCost = 8
+	#Elemental Essence needed to evolve Laguna into Laguna: Child of Blessing
+	LagunaElementalEssenceCost = 12
+
+[oddLagunaUltCost]
+	#Holy Essence needed to evolve Laguna: Child of Blessing into Odd Laguna
+	OddLagunaHolyEssenceCost = 16
+	#Elemental Essence needed to evolve Laguna: Child of Blessing into Odd Laguna
+	OddLagunaElementalEssenceCost = 24
+
+[mammonUltCost]
+	#Elder Essence needed to evolve Greed into Mammon
+	MammonElderEssenceCost = 10
+	#Demon Essence needed to evolve Greed into Mammon
+	MammonDemonEssenceCost = 10
+	#Soul Essence needed to evolve Greed into Mammon
+	MammonSoulEssenceCost = 10
+
+[meliodasUltCost]
+	#Demon Essence needed to evolve Coffin Of Darkness into Meliodas
+	MeliodasDemonEssenceCost = 10
+	#Soul Essence needed to evolve Coffin Of Darkness into Meliodas
+	MeliodasSoulEssenceCost = 10
+
+[merlinUltCost]
+	#Elemental Essence needed to evolve Infinity into Merlin
+	MerlinElementalEssenceCost = 10
+
+[mithrasUltCost]
+	#Soul Essence needed to evolve Cultist into Mithras
+	MithrasSoulEssenceCost = 10
+	#Elder Essence needed to evolve Cultist into Mithras
+	MithrasElderEssenceCost = 5
+	#Life Essence needed to evolve Cultist into Mithras
+	MithrasLifeEssenceCost = 5
+
+[michaelUltCost]
+	#Holy Essence needed to evolve Dominator into Michael
+	MichaelHolyEssenceCost = 50
+	#Elemental Essence needed to evolve Dominator into Michael
+	MichaelElementalEssenceCost = 15
+
+[nemeanUltCost]
+	#Soul Essence needed to evolve Royal Beast into Nemean
+	NemeanSoulEssenceCost = 10
+
+[nodensUltCost]
+	#Elder Essence needed to evolve Lucifer into Nodens
+	NodensElderEssenceCost = 50
+	#Demon Essence needed to evolve Lucifer into Nodens
+	NodensDemonEssenceCost = 75
+	#Soul Essence needed to evolve Lucifer into Nodens
+	NodensSoulEssenceCost = 50
+
+[pretaUltCost]
+	#Soul Essence needed to evolve Gourmand into Preta
+	PretaSoulEssenceCost = 10
+
+[shivaUltCost]
+	#Blaze Essence needed to evolve Fighter into Shiva
+	ShivaBlazeEssenceCost = 10
+	#Holy Essence needed to evolve Fighter into Shiva
+	ShivaHolyEssenceCost = 10
+
+[vehementUltCost]
+	#Soul Essence needed to evolve Berserker & Survivor into Vehement
+	VehementSoulEssenceCost = 10
+	#Elder Essence needed to evolve Berserker & Survivor into Vehement
+	VehementElderEssenceCost = 1
+	#Life Essence needed to evolve Berserker & Survivor into Vehement
+	VehementLifeEssenceCost = 10
+
+[velesUltCost]
+	#Demon Essence needed to evolve Usurper into Veles
+	VelesDemonEssenceCost = 10
+	#Holy Essence needed to evolve Usurper into Veles
+	VelesHolyEssenceCost = 10
+
+[vergilUltCost]
+	#Elemental Essence needed to evolve Judicator into Vergil
+	VergilElementalEssenceCost = 10
+	#Demon Essence needed to evolve Judicator into Vergil
+	VergilDemonEssenceCost = 10
+
+[xalighaUltCost]
+	#Elder Essence needed to evolve Mithras and Bacchus into Xa’ligha
+	XalighaElderEssenceCost = 15
+	#Soul Essence needed to evolve Mithras and Bacchus into Xa’ligha
+	XalighaSoulEssenceCost = 30
+	#Demon Essence needed to evolve Mithras and Bacchus into Xa’ligha
+	XalighaDemonEssenceCost = 25

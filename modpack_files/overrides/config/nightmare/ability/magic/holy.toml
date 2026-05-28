@@ -1,0 +1,33 @@
+[Disintegration]
+	#Cast time in seconds.
+	castTime = 12
+	#Magicule Cost to cast.
+	magiculeCost = 40000.0
+	#Spiritron Cost to cast.
+	spiritronCost = 100
+	#The holy damage of the spell per damage tick.
+	holyDamage = 40.0
+
+[HolyCannon]
+	#Cast time in seconds.
+	castTime = 3
+	#Magicule Cost to cast.
+	magiculeCost = 5000.0
+	#Spiritron Cost to cast.
+	spiritronCost = 10
+	#The holy damage of the beam.
+	holyDamage = 40.0
+	#The block range of the beam.
+	range = 8.0
+
+[MeltStrike]
+	#Cast time in seconds.
+	castTime = 6
+	#Magicule Cost to cast.
+	magiculeCost = 10000.0
+	#Spiritron Cost to cast.
+	spiritronCost = 60
+	#The holy damage of the beam.
+	holyDamage = 150.0
+	#The block range of the beam.
+	range = 8.0

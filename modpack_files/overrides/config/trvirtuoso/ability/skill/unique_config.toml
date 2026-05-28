@@ -1,0 +1,145 @@
+[Stripes]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 40000.0
+	#Magicule Cost to activate or deactivate Force.
+	magiculeCostForce = 2000.0
+	#Magicule Cost to activate or deactivate Object.
+	magiculeCostObject = 2000.0
+	#List of effects stopped by Force.
+	effectImmunities = ["tensura:disintegration", "tensura:chill", "tensura:frost", "tensura:burden", "tensura:webbed", "minecraft:slowness", "miencraft:mining_fatigue", "minecraft:slow_falling"]
+	#Cooldown for activating and deactivating Force in seconds.
+	forceCooldown = 10
+	#Cooldown for activating and deactivating Object in seconds.
+	objectCooldown = 10
+	#Percentage of damage stopped by Object.
+	objectBlockPercentage = 50.0
+
+[Lemegeton]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 35000.0
+	#Magicule Cost to activate Demon Seal.
+	magiculeCostSeal = 50000.0
+	#Magicule Cost to activate Key's Defense.
+	magiculeStartCostKey = 5000.0
+	#Magicule Cost to activate Magic Cancel.
+	magiculeCostCancel = 5000.0
+	#Magicule Cost multiplier for Key's Defense (eg, 50 magicule for 1 damage).
+	magiculeCostKey = 50.0
+	#Cooldown for activating Demon Seal.
+	sealCooldown = 300
+	#Cooldown for activating Key's Defense.
+	keyCooldown = 0
+	#Cooldown for activating Magic Cancel.
+	cancelCooldown = 60
+	#Duration of cooldown inflicted by Magic Cancel.
+	cancelDuration = 300
+	#What percentage of the user's EP must be greater than the targeted mob for Demon Seal.
+	sealMobPercentage = 80.0
+	#What percentage of the user's EP must be greater than the targeted player for Demon Seal.
+	sealPlayerPercentage = 40.0
+	#How much are Magic and Holy damage multiplied by the toggle.
+	damageMultiplier = 2
+	#Learning point boost for spells
+	learningPoint = 1000.0
+	#Mastery point gain for Spells
+	masteryPoint = 1000.0
+
+[Ending]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 44444.0
+	#Magicule Cost to activate No Escape.
+	magiculeCostPull = 4444.0
+	#Magicule Cost to activate Death's Door.
+	magiculeCostDoor = 4444.0
+	#Damage dealt by no escape.
+	pullDamage = 44
+	#Cooldown for activating No Escape.
+	pullCooldown = 44
+	#Cooldown for activating Death's Door.
+	doorCooldown = 444
+	#Cooldown for removing cook and altered cooked damage automatically.
+	healCooldown = 1
+
+[Processor]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 40000.0
+	#Magicule Cost to activate Allocate.
+	magiculeCostAllocate = 1000.0
+	#Magicule Cost to activate Overclock.
+	magiculeCostClock = 15000.0
+	#Base number of Threads
+	defaultThreads = 2
+	#Number of Threads on Mastery.
+	masteryThreads = 3
+	#Cooldown for activating Allocate.
+	allocateCooldown = 10
+	#How long overclock buffs user at base.
+	clockBuffTime = 40
+	#The base percentage of the overclock buff.
+	clockBuffPerc = 30
+	#How long the skill is disabled after using overclock in seconds.
+	clockCooldown = 300
+	#How many frames of invulnerability dodging is buffed by per thread.
+	iFrameBuff = 1
+	#CastingTime buff per thread.
+	castBuff = 2
+
+[SoulShrine]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 75000.0
+	#Magicule Cost to Divergent Fist or Cursed Energy reinforcement.
+	magiculeCostFist = 100.0
+	#Magicule Cost to activate Simple Domain.
+	magiculeCostSimple = 2000.0
+	#Damage multiplier dealt by divergent unmastered.
+	divergentDamage = 1.5
+	#Damage dealt by reinforcement mastered.
+	reinforcementDamage = 2.0
+	#Cooldown for activating Divergent Fist.
+	divergentCooldown = 2
+	#Cooldown for activating Reinforcement.
+	reinforcementCooldown = 0
+	#How long simple domain lasts in seconds.
+	simpleDuration = 30
+	#How long simple domain lasts in seconds with mastery.
+	simpleDurationMastered = 60
+	#Cooldown for Simple Domain.
+	simpleCooldown = 120
+	#Chance out of 100 for a physical attack to trigger a black flash without mastery.
+	flashChance = 1
+	#Chance out of 100 for a physical attack to trigger a black flash with mastery.
+	flashChanceMastered = 5
+	#How much having Zone effect increases chances out of 100.
+	flashZoneChance = 20
+	#List of effects User is immune to.
+	effectImmunities = ["tensura:black_burn", "tensura:spatial_blockade", "tensura:soul_drain"]
+	#Percentage of magical and spiritual damage resisted when in simple domain.
+	simpleResistance = 50.0
+	#Damage multiplier on an attack with black flash.
+	flashMultiplier = 2.5
+
+[Punisher]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 30000.0
+	#Magicule Cost for Justice.
+	magiculeCostJustice = 7500.0
+	#Magicule Cost to activate Punishment.
+	magiculeCostPunishment = 2000.0
+	#Damage dealt by Justice.
+	justiceDamage = 1.5
+	#How long Justice lasts in seconds (doubles on mastery).
+	justiceDuration = 2
+	#Cooldown for Justice.
+	justiceCooldown = 120
+	#Cooldown for Justice in seconds mastered.
+	justiceCooldownMastered = 90
+	#Cooldown for Punishment.
+	punishmentCooldown = 0
+	#How long soul regeneration hinderance lasts in seconds.
+	slowSoulDuration = 3
+
+[Modifier]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 90000.0
+	#Cooldown in seconds per one thousand magicule cost.
+	repCooldown = 30

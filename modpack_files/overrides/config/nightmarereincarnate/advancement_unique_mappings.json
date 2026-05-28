@@ -1,0 +1,218 @@
+{
+  "version": 1,
+  "notes": "Default tensura stuff, change advancement ids if you want, make sure its overworld-accessible advancements though for your modpack.",
+  "mappings": [
+    {
+      "skill": "tensura:absolute_severance",
+      "advancement": "minecraft:adventure/overoverkill"
+    },
+    {
+      "skill": "tensura:analyst",
+      "advancement": "minecraft:adventure/read_power_of_chiseled_bookshelf"
+    },
+    {
+      "skill": "tensura:berserk",
+      "advancement": "minecraft:adventure/very_very_frightening"
+    },
+    {
+      "skill": "tensura:berserker",
+      "advancement": "minecraft:story/obtain_armor"
+    },
+    {
+      "skill": "tensura:bewilder",
+      "advancement": "minecraft:adventure/trade"
+    },
+    {
+      "skill": "tensura:chef",
+      "advancement": "minecraft:husbandry/safely_harvest_honey"
+    },
+    {
+      "skill": "tensura:chosen_one",
+      "advancement": "minecraft:adventure/hero_of_the_village"
+    },
+    {
+      "skill": "tensura:commander",
+      "advancement": "minecraft:adventure/summon_iron_golem"
+    },
+    {
+      "skill": "tensura:cook",
+      "advancement": "minecraft:husbandry/balanced_diet"
+    },
+    {
+      "skill": "tensura:creator",
+      "advancement": "minecraft:adventure/summon_iron_golem"
+    },
+    {
+      "skill": "tensura:degenerate",
+      "advancement": "minecraft:story/enchant_item"
+    },
+    {
+      "skill": "tensura:engorger",
+      "advancement": "minecraft:adventure/fall_from_world_height"
+    },
+    {
+      "skill": "tensura:envy",
+      "advancement": "minecraft:adventure/trim_with_any_armor_pattern"
+    },
+    {
+      "skill": "tensura:falsifier",
+      "advancement": "minecraft:adventure/spyglass_at_parrot"
+    },
+    {
+      "skill": "tensura:fighter",
+      "advancement": "minecraft:story/upgrade_tools"
+    },
+    {
+      "skill": "tensura:fusionist",
+      "advancement": "minecraft:adventure/minecraft_trials_edition"
+    },
+    {
+      "skill": "tensura:gourmand",
+      "advancement": "minecraft:husbandry/balanced_diet"
+    },
+    {
+      "skill": "tensura:gourmet",
+      "advancement": "minecraft:husbandry/fishy_business"
+    },
+    {
+      "skill": "tensura:great_sage",
+      "advancement": "minecraft:adventure/adventuring_time"
+    },
+    {
+      "skill": "tensura:greed",
+      "advancement": "minecraft:adventure/under_lock_and_key"
+    },
+    {
+      "skill": "tensura:guardian",
+      "advancement": "minecraft:adventure/totem_of_undying"
+    },
+    {
+      "skill": "tensura:healer",
+      "advancement": "minecraft:story/cure_zombie_villager"
+    },
+    {
+      "skill": "tensura:infinity_prison",
+      "advancement": "minecraft:adventure/under_lock_and_key"
+    },
+    {
+      "skill": "tensura:lust",
+      "advancement": "minecraft:husbandry/whole_pack"
+    },
+    {
+      "skill": "tensura:martial_master",
+      "advancement": "minecraft:adventure/two_birds_one_arrow"
+    },
+    {
+      "skill": "tensura:mathematician",
+      "advancement": "minecraft:adventure/crafters_crafting_crafters"
+    },
+    {
+      "skill": "tensura:merciless",
+      "advancement": "minecraft:adventure/arbalistic"
+    },
+    {
+      "skill": "tensura:murderer",
+      "advancement": "minecraft:adventure/avoid_vibration"
+    },
+    {
+      "skill": "tensura:musician",
+      "advancement": "minecraft:adventure/play_jukebox_in_meadows"
+    },
+    {
+      "skill": "tensura:observer",
+      "advancement": "minecraft:adventure/spyglass_at_shulker_box"
+    },
+    {
+      "skill": "tensura:oppressor",
+      "advancement": "minecraft:adventure/blowback"
+    },
+    {
+      "skill": "tensura:predator",
+      "advancement": "minecraft:adventure/kill_a_mob"
+    },
+    {
+      "skill": "tensura:pride",
+      "advancement": "minecraft:adventure/overoverkill"
+    },
+    {
+      "skill": "tensura:reflector",
+      "advancement": "minecraft:story/deflect_arrow"
+    },
+    {
+      "skill": "tensura:researcher",
+      "advancement": "minecraft:story/enchant_item"
+    },
+    {
+      "skill": "tensura:royal_beast",
+      "advancement": "minecraft:husbandry/whole_pack"
+    },
+    {
+      "skill": "tensura:reaper",
+      "advancement": "minecraft:adventure/kill_mob_near_sculk_catalyst"
+    },
+    {
+      "skill": "tensura:reverser",
+      "advancement": "minecraft:story/cure_zombie_villager"
+    },
+    {
+      "skill": "tensura:seeker",
+      "advancement": "minecraft:adventure/adventuring_time"
+    },
+    {
+      "skill": "tensura:seer",
+      "advancement": "minecraft:adventure/spyglass_at_ghast"
+    },
+    {
+      "skill": "tensura:severer",
+      "advancement": "minecraft:adventure/sniper_duel"
+    },
+    {
+      "skill": "tensura:shadow_striker",
+      "advancement": "minecraft:adventure/under_lock_and_key"
+    },
+    {
+      "skill": "tensura:sloth",
+      "advancement": "minecraft:adventure/sleep_in_bed"
+    },
+    {
+      "skill": "tensura:sniper",
+      "advancement": "minecraft:adventure/bullseye"
+    },
+    {
+      "skill": "tensura:spearhead",
+      "advancement": "minecraft:adventure/hero_of_the_village"
+    },
+    {
+      "skill": "tensura:suppressor",
+      "advancement": "minecraft:adventure/avoid_vibration"
+    },
+    {
+      "skill": "tensura:survivor",
+      "advancement": "minecraft:adventure/totem_of_undying"
+    },
+    {
+      "skill": "tensura:traveler",
+      "advancement": "minecraft:adventure/trade_at_world_height"
+    },
+    {
+      "skill": "tensura:thrower",
+      "advancement": "minecraft:adventure/throw_trident"
+    },
+    {
+      "skill": "tensura:tuner",
+      "advancement": "minecraft:adventure/totem_of_undying"
+    },
+    {
+      "skill": "tensura:unyielding",
+      "advancement": "minecraft:story/shiny_gear"
+    },
+    {
+      "skill": "tensura:usurper",
+      "advancement": "minecraft:adventure/whos_the_pillager_now"
+    },
+    {
+      "skill": "tensura:villain",
+      "advancement": "minecraft:adventure/voluntary_exile"
+    }
+  ]
+}

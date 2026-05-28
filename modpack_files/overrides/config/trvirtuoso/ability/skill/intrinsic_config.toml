@@ -1,0 +1,15 @@
+[Avalon]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Dodge chance for Non-Magical attacks out of 100.
+	dodgeChance = 25.0
+	#Dodge chance for Projectile attacks out of 100.
+	projectileChance = 25.0
+
+[Ideal]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Critical Attack Chance.
+	critChance = 100.0
+	#Level of Luck granted passively by ideal.
+	luckMultiplier = 1

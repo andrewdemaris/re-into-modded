@@ -1,0 +1,99 @@
+[magic_geode]
+	#Controls magic geode rarity. Higher values make geodes rarer. A value of 24 means roughly one successful placement attempt out of every 24 tries.
+	# Default: 24
+	# Range: > 1
+	magicOreGeodeGenerationChance = 24
+
+[entity_magicule]
+	#Tick interval used to aggregate living entity magicule into the current chunk.
+	# Default: 20
+	# Range: > 1
+	entityMagiculeInfluenceInterval = 20
+	#Minimum entity magicule required before a living entity starts contributing to chunk magicule.
+	# Default: 100
+	# Range: > 0
+	entityMagiculeInfluenceMinMagicule = 100
+	#Scaling factor applied to the square root of entity magicule when converting it into chunk magicule contribution.
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	entityMagiculeInfluenceFactor = 2.0
+	#Maximum chunk magicule contribution that a single living entity can add during one aggregation step.
+	# Default: 1200
+	# Range: > 0
+	entityMagiculeInfluenceEntityCap = 1200
+	#Maximum total chunk magicule contribution that all living entities in one chunk can add during one aggregation step.
+	# Default: 10000
+	# Range: > 0
+	entityMagiculeInfluenceChunkCap = 10000
+	#How quickly a chunk's current environmental magicule influence approaches its target value. Higher values make the environment react faster.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	entityMagiculeInfluenceApproachRate = 0.2
+	#Ratio used to convert maximum magicule influence into regeneration influence. Lower values make chunk recovery rise more slowly than chunk capacity.
+	# Default: 0.02
+	# Range: 0.0 ~ 1.0
+	entityMagiculeInfluenceRegenRatio = 0.02
+	#Ratio of current environmental bonus that diffuses outward to adjacent loaded chunks during each diffusion step.
+	# Default: 0.04
+	# Range: 0.0 ~ 1.0
+	entityMagiculeInfluenceDiffusionRate = 0.04
+
+[mother_rock]
+	#Minimum chunk magicule required before magic ore can start converting into mother rock.
+	# Default: 500
+	# Range: > 0
+	magicOreMotherRockMinMagicule = 500
+	#Chunk magicule value at which mother rock conversion reaches its maximum configured chance.
+	# Default: 20000
+	# Range: > 0
+	magicOreMotherRockFullChanceMagicule = 20000
+	#Lowest conversion chance used when chunk magicule has just reached the minimum threshold.
+	# Default: 0.001
+	# Range: 0.0 ~ 1.0
+	magicOreMotherRockMinTransformChance = 0.001
+	#Maximum conversion chance used once chunk magicule reaches the full-chance threshold.
+	# Default: 0.03
+	# Range: 0.0 ~ 1.0
+	magicOreMotherRockTransformChance = 0.03
+	#Chunk magicule consumed when a magic ore block successfully converts into mother rock.
+	# Default: 2000
+	# Range: > 0
+	magicOreMotherRockTransformCost = 2000
+	#Tick interval between chunk scans for mother rock conversion attempts.
+	# Default: 200
+	# Range: > 1
+	magicOreMotherRockTransformScanInterval = 200
+	#Chance for mother rock to attempt crystal growth during a random tick.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	magicOreMotherRockGrowthChance = 1.0
+	#Chunk magicule consumed when mother rock grows a small magic ore bud.
+	# Default: 25
+	# Range: > 0
+	smallMagicOreBudGrowthCost = 25
+	#Chunk magicule consumed when a small bud upgrades into a medium bud.
+	# Default: 50
+	# Range: > 0
+	mediumMagicOreBudGrowthCost = 50
+	#Chunk magicule consumed when a medium bud upgrades into a large bud.
+	# Default: 100
+	# Range: > 0
+	largeMagicOreBudGrowthCost = 100
+	#Chunk magicule consumed when a large bud upgrades into a full magic ore cluster.
+	# Default: 200
+	# Range: > 0
+	magicOreClusterGrowthCost = 200
+
+[mob_spawn]
+	#Whether high magicule chunks can replace specific natural spawns with whitelist rare mobs.
+	magiculeMobReplacementEnabled = true
+	#Minimum chunk magicule required before whitelist mob replacement can happen.
+	# Default: 20000
+	# Range: > 0
+	magiculeMobReplacementMinMagicule = 20000
+	#Chance for a whitelisted natural spawn to be replaced once the chunk magicule threshold is met.
+	# Default: 0.1
+	# Range: 0.0 ~ 1.0
+	magiculeMobReplacementChance = 0.1
+	#Whitelist replacement pairs in the format source_entity>target_entity.
+	magiculeMobReplacementWhitelist = ["tensura:orc>tensura:orc_lord", "tensura:black_spider>tensura:knight_spider", "tensura:slime>tensura:metal_slime", "tensura:metal_slime>tensura:supermassive_slime", "tensura:lesser_daemon>tensura:greater_daemon", "tensura:greater_daemon>tensura:arch_daemon"]

@@ -1,0 +1,20 @@
+#If false, attackers do NOT gain a damage bonus from their max EP.
+enableOffensiveEP = true
+#Bonus damage fraction per unit of attacker's Max EP. Default 0.00002 = 1% per 50k EP. At 1M EP that's +20%, at 10M +200%, at 100M +2000% — uncapped. Stacks multiplicatively with category bonuses.
+offensiveEPRate = 2.0E-5
+#If false, spells gain no extra bonus from max MP beyond the EP bonus.
+enableMagicMP = true
+#Bonus fraction per unit Max Magicule on magic/elemental damage. Default 0.00004 = 1% per 25k MP. Stacks multiplicatively on top of the EP bonus.
+magicMPRate = 4.0E-5
+#If false, battlewill strikes gain no extra bonus from max AP beyond the EP bonus.
+enableBattlewillAP = true
+#Bonus fraction per unit Max Aura on battlewill (aura-infused) damage. Default ~0.0000667 = 1% per 15k AP. Stacks multiplicatively on top of the EP bonus.
+battlewillAPRate = 6.666666666666667E-5
+#If false, defenders do NOT gain damage reduction from their max EP.
+enableResistEP = true
+#Maximum damage reduction fraction from Max EP. Default 0.25 = 25% reduction at infinite EP. Stacks multiplicatively with per-type ResistSkills, so raising this compounds protection fast. Effective max 0.99.
+resistEPCap = 0.25
+#EP value at which resist reaches ~63% of its cap. Default 2_000_000: at 2M EP you're at ~16% of the 25% cap, at 10M EP ~24.8% (effectively capped).
+resistEPScale = 2000000.0
+#Rate multiplier applied to all bonuses for non-player entities. Default 0.5 = mobs get half the scaling players do. Keeps bosses threatening at high EP without turning them into invulnerable one-shot cannons.
+mobRate = 0.5

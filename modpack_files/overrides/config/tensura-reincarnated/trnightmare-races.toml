@@ -1,0 +1,543 @@
+[demonEPRequirements]
+	#EP Required to evolve into a Middle Class Demon
+	# Default: 45000.0
+	# Range: 0.0 ~ 1.0E9
+	midDemonEP = 45000.0
+	#EP Required to evolve into a High Class Demon
+	# Default: 150000.0
+	# Range: 0.0 ~ 1.0E9
+	highDemonEP = 150000.0
+	#EP Required to evolve into a Royal Demon
+	# Default: 800000.0
+	# Range: 0.0 ~ 1.0E9
+	royalDemonEP = 800000.0
+	#EP Required to evolve into a Demon Prince
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	demonPrinceEP = 2500000.0
+	#EP Required to evolve into a Demon Knight
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	demonKnightEP = 500000.0
+	#EP Required to evolve into a Knight of Black
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	knightBlackEP = 2000000.0
+	#EP Required to evolve into a Ten Commandment
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	tenCommandmentEP = 2500000.0
+	#EP Required to evolve into a Hell Rizer
+	# Default: 1000000.0
+	# Range: 0.0 ~ 1.0E9
+	hellRizerEP = 1000000.0
+
+[fairyEPRequirements]
+	#EP Required to evolve into a Higher Fairy
+	# Default: 40000.0
+	# Range: 0.0 ~ 1.0E9
+	higherFairyEP = 40000.0
+	#EP Required to evolve into a Dark Fairy
+	# Default: 80000.0
+	# Range: 0.0 ~ 1.0E9
+	darkFairyEP = 80000.0
+	#EP Required to evolve into a Slayer Fairy
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	slayerFairyEP = 500000.0
+	#EP Required to evolve into a Lost Fairy
+	# Default: 800000.0
+	# Range: 0.0 ~ 1.0E9
+	lostFairyEP = 800000.0
+	#EP Required to evolve into a Fairy Prince
+	# Default: 120000.0
+	# Range: 0.0 ~ 1.0E9
+	fairyPrinceEP = 120000.0
+	#EP Required to evolve into a Sacred Tree Child
+	# Default: 420000.0
+	# Range: 0.0 ~ 1.0E9
+	sacredTreeChildEP = 420000.0
+	#EP Required to evolve into a True Fairy King
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	trueFairyKingEP = 2500000.0
+	#EP Required to evolve into a Fairy Druid
+	# Default: 100000.0
+	# Range: 0.0 ~ 1.0E9
+	fairyDruidEP = 100000.0
+	#EP Required to evolve into a Fairy Princess
+	# Default: 450000.0
+	# Range: 0.0 ~ 1.0E9
+	fairyPrincessEP = 450000.0
+	#EP Required to evolve into a Guardian Of The Tree
+	# Default: 1250000.0
+	# Range: 0.0 ~ 1.0E9
+	guardianOfTheTreeEP = 1250000.0
+
+[giantEPRequirements]
+	#EP Required to evolve into a Giant Warrior
+	# Default: 50000.0
+	# Range: 0.0 ~ 1.0E9
+	giantWarriorEP = 50000.0
+	#EP Required to evolve into a Giant Dancer
+	# Default: 40000.0
+	# Range: 0.0 ~ 1.0E9
+	giantDancerEP = 40000.0
+	#EP Required to evolve into a Giant Elder
+	# Default: 140000.0
+	# Range: 0.0 ~ 1.0E9
+	giantElderEP = 140000.0
+	#EP Required to evolve into a Fang Of Earth
+	# Default: 450000.0
+	# Range: 0.0 ~ 1.0E9
+	fangOfEarthEP = 450000.0
+	#EP Required to evolve into a Giant King
+	# Default: 1500000.0
+	# Range: 0.0 ~ 1.0E9
+	giantKingEP = 1500000.0
+	#EP Required to evolve into a Mutant Giant
+	# Default: 100000.0
+	# Range: 0.0 ~ 1.0E9
+	mutantGiantEP = 100000.0
+	#EP Required to evolve into a One Eyed God
+	# Default: 600000.0
+	# Range: 0.0 ~ 1.0E9
+	oneEyedGodEP = 600000.0
+	#EP Required to evolve into a God Of Earth
+	# Default: 1600000.0
+	# Range: 0.0 ~ 1.0E9
+	godOfEarthEP = 1600000.0
+	#EP Required to evolve into a Big Cutie
+	# Default: 200000.0
+	# Range: 0.0 ~ 1.0E9
+	bigCutieEP = 200000.0
+	#EP Required to evolve into a Earthshaker Dancer
+	# Default: 600000.0
+	# Range: 0.0 ~ 1.0E9
+	earthshakerDanceEP = 600000.0
+	#EP Required to evolve into a Giant Queen
+	# Default: 2250000.0
+	# Range: 0.0 ~ 1.0E9
+	giantQueenEP = 2250000.0
+	#EP Required to evolve into a Greater Giant
+	# Default: 90000.0
+	# Range: 0.0 ~ 1.0E9
+	greaterGiantEP = 90000.0
+	#EP Required to evolve into a Titan
+	# Default: 250000.0
+	# Range: 0.0 ~ 1.0E9
+	titanEP = 250000.0
+	#EP Required to evolve into a Greater Titan
+	# Default: 600000.0
+	# Range: 0.0 ~ 1.0E9
+	greaterTitanEP = 600000.0
+	#EP Required to evolve into a Divine Titan
+	# Default: 1000000.0
+	# Range: 0.0 ~ 1.0E9
+	divineTitanEP = 1000000.0
+	#EP Required to evolve into a Four-Armed Giant
+	# Default: 1200000.0
+	# Range: 0.0 ~ 1.0E9
+	fourArmedGiantEP = 1200000.0
+	#EP Required to evolve into an Ancestral Giant
+	# Default: 1800000.0
+	# Range: 0.0 ~ 1.0E9
+	ancestralGiantEP = 1800000.0
+	#EP Required to evolve into a Divine Giant
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	divineGiantEP = 2500000.0
+
+[goddessEPRequirements]
+	#EP Required to evolve into a Medium Goddess
+	# Default: 80000.0
+	# Range: 0.0 ~ 1.0E9
+	mediumGoddessEP = 80000.0
+	#EP Required to evolve into a Higher Goddess
+	# Default: 150000.0
+	# Range: 0.0 ~ 1.0E9
+	higherGoddessEP = 150000.0
+	#EP Required to evolve into a Divine Soldier
+	# Default: 350000.0
+	# Range: 0.0 ~ 1.0E9
+	divineSoldierEP = 350000.0
+	#EP Required to evolve into a Lance Corporal
+	# Default: 750000.0
+	# Range: 0.0 ~ 1.0E9
+	lanceCorporalEP = 750000.0
+	#EP Required to evolve into a Archangel
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	archangelEP = 2000000.0
+	#EP Required to evolve into a Archangel
+	# Default: 350000.0
+	# Range: 0.0 ~ 1.0E9
+	winglessEP = 350000.0
+	#EP Required to evolve into a Archangel
+	# Default: 700000.0
+	# Range: 0.0 ~ 1.0E9
+	namelessEP = 700000.0
+	#EP Required to evolve into a Archangel
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	brotherOfChaosEP = 2000000.0
+	#EP Required to evolve into a Archangel
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	princessEP = 500000.0
+	#EP Required to evolve into a Archangel
+	# Default: 950000.0
+	# Range: 0.0 ~ 1.0E9
+	DaughterEP = 950000.0
+	#EP Required to evolve into a Archangel
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	AccursedEP = 2500000.0
+
+[bodyEPRequirements]
+	#EP Required to evolve into a Parallel Existence
+	# Default: 1500000.0
+	# Range: 0.0 ~ 1.0E9
+	ParallelExistenceEP = 1500000.0
+	#EP Required to evolve into a Einherjar
+	# Default: 5500000.0
+	# Range: 0.0 ~ 1.0E9
+	EinherjarEP = 5500000.0
+	#EP Required to evolve into a Manas
+	# Default: 2.55E7
+	# Range: 0.0 ~ 1.0E9
+	ManasEP = 2.55E7
+
+[fienddrakeEPRequirements]
+	#EP Required to evolve into a Dread Wyvern
+	# Default: 50000.0
+	# Range: 0.0 ~ 1.0E9
+	dreadWyvernEP = 50000.0
+	#EP Required to evolve into a Abyss Scourge
+	# Default: 150000.0
+	# Range: 0.0 ~ 1.0E9
+	abyssScourge = 150000.0
+	#EP Required to evolve into a Lesser Shadow Dragon
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	lesserShadowDragonEP = 400000.0
+	#EP Required to evolve into a Greater Shadow Dragon
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	greaterShadowDragonEP = 500000.0
+	#EP Required to evolve into a Tyrant Shadow Dragon
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	tyrantShadowDragonEP = 2000000.0
+	#EP Required to evolve into a Fracture Dragon
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	fractureDragonEP = 400000.0
+	#EP Required to evolve into a Shatter Dragon
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	shatterDragonEP = 500000.0
+	#EP Required to evolve into a Ruin Dragon
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	ruinDragonEP = 2000000.0
+	#EP Required to evolve into a Abyss Wing
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	abyssWingEP = 500000.0
+	#EP Required to evolve into a Infernal Wing
+	# Default: 1000000.0
+	# Range: 0.0 ~ 1.0E9
+	infernalWingEP = 1000000.0
+	#EP Required to evolve into a Burning Emperor Dragon
+	# Default: 3000000.0
+	# Range: 0.0 ~ 1.0E9
+	burningEmperorDragonEP = 3000000.0
+
+[axolotlEPRequirements]
+	#EP required to evolve into Axolotl Knight
+	# Default: 40000.0
+	# Range: 0.0 ~ 1.0E9
+	axolotlKnightEP = 40000.0
+	#EP required to evolve into Arch Axolotl Knight
+	# Default: 150000.0
+	# Range: 0.0 ~ 1.0E9
+	archAxolotlKnightEP = 150000.0
+	#EP required to evolve into Grand Axolotl Knight
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	grandAxolotlKnightEP = 500000.0
+	#EP required to evolve into Emperor Axolotl Knight
+	# Default: 800000.0
+	# Range: 0.0 ~ 1.0E9
+	emperorAxolotlKnightEP = 800000.0
+	#EP required to evolve into Axolotl Steel Spirit Dragon
+	# Default: 2500000.0
+	# Range: 0.0 ~ 1.0E9
+	axolotlSteelSpiritDragonEP = 2500000.0
+
+[sageBeastEPRequirements]
+	#EP Required to evolve into a Calamity Sage Beast
+	# Default: 80000.0
+	# Range: 0.0 ~ 1.0E9
+	calamitySageBeastEP = 80000.0
+	#EP Required to evolve into a Dark Sage Beast
+	# Default: 80000.0
+	# Range: 0.0 ~ 1.0E9
+	darkSageBeastEP = 80000.0
+	#EP Required to evolve into a Saint Sage Beast
+	# Default: 80000.0
+	# Range: 0.0 ~ 1.0E9
+	saintSageBeast = 80000.0
+	#EP Required to evolve into a Trickster Sage Beast
+	# Default: 160000.0
+	# Range: 0.0 ~ 1.0E9
+	tricksterSageEP = 160000.0
+	#EP Required to evolve into a Chaos Born Sage Beast
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	chaosBornSageEP = 500000.0
+	#EP Required to evolve into a Monkey King Calamity Beast
+	# Default: 2100000.0
+	# Range: 0.0 ~ 1.0E9
+	monkeyKingCalamityEP = 2100000.0
+	#EP Required to evolve into a Shadowed Beast Sage
+	# Default: 160000.0
+	# Range: 0.0 ~ 1.0E9
+	shadowBeastSageEP = 160000.0
+	#EP Required to evolve into a Black Hearted Sage Beast
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	blackHeartedSageBeastEP = 500000.0
+	#EP Required to evolve into a Demon Beast Sage King
+	# Default: 2100000.0
+	# Range: 0.0 ~ 1.0E9
+	demonBeastSageKingEP = 2100000.0
+	#EP Required to evolve into a Enlightened Sage Beast
+	# Default: 160000.0
+	# Range: 0.0 ~ 1.0E9
+	enlightenedSageBeastEP = 160000.0
+	#EP Required to evolve into a Flame Keeper Goat Sage Beast
+	# Default: 500000.0
+	# Range: 0.0 ~ 1.0E9
+	flameKeeperGoatSageEP = 500000.0
+	#EP Required to evolve into a Divine Goat Sage Beast
+	# Default: 2100000.0
+	# Range: 0.0 ~ 1.0E9
+	divineGoatSage = 2100000.0
+
+[extendedRacesEPRequirements]
+	#EP Required to evolve into a Elemental Hybrid
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	elementalHybrid = 4200000.0
+	#EP Required to evolve into a Elemental Soul Oni
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	elementalSoul = 4200000.0
+	#EP Required to evolve into a God Vampire
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	godVampire = 4200000.0
+	#EP Required to evolve into a Lord of Darkness
+	# Default: 6400000.0
+	# Range: 0.0 ~ 1.0E9
+	lordOfDarkness = 6400000.0
+	#EP Required to evolve into a Imitation Slime
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	imitationSlime = 4200000.0
+	#EP Required to evolve into a Mirror Demonoid
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	mirrorDemonoid = 4200000.0
+	#EP Required to evolve into a Slime Drake
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	slimeDrake = 4200000.0
+	#EP Required to evolve into a Death God
+	# Default: 1.12E7
+	# Range: 0.0 ~ 1.0E9
+	deathGod = 1.12E7
+	#EP Required to evolve into a Grim Reaper
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	grimReaper = 4200000.0
+	#EP Required to evolve into a Diable Chevaliers
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	diableChevaliers = 4200000.0
+	#EP Required to evolve into a Devil God
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	devilGod = 4200000.0
+	#EP Required to evolve into a True Dwarf
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	trueDwarf = 4200000.0
+	#EP Required to evolve into a True Elf
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	trueElf = 4200000.0
+	#EP Required to evolve into a True Fish
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	trueFish = 4200000.0
+	#EP Required to evolve into a True Oni
+	# Default: 4200000.0
+	# Range: 0.0 ~ 1.0E9
+	trueOni = 4200000.0
+
+[raceEssenceCosts]
+	#Soul Essence required for Extended Races Evolution
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	extendedRacesSouls = 10.0
+	#Elder Essence required for Extended Races Evolutions
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0E9
+	extendedRacesEssence = 1.0
+	#Elemental Essence required for Elemental Hybrid & Elemental Soul
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	elementalEssenceReq = 10.0
+	#Zanes Blood required for God Vampire evolution
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	godVampireBlood = 10.0
+	#Slime Cores required for Imitation Slime Race
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	imitSlime = 10.0
+	#Demon Essence required for Mirror Demonoid Race
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	mirrorDemonoid = 10.0
+	#Dragon Essence required for Slime Drake Race
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	dragonEssence = 10.0
+	#Elemental Essence required for Giant evolutions
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	demonClanSouls = 10.0
+	#Demon Essence required for Apewolf evolutions
+	# Default: 10.0
+	# Range: 0.0 ~ 1.0E9
+	fairyClanLife = 10.0
+
+[harpyEPRequirements]
+	#EP Required to evolve into a High Harpy
+	# Default: 45000.0
+	# Range: 0.0 ~ 1.0E9
+	highHarpyEP = 45000.0
+	#EP Required to evolve into a Harpy Knight
+	# Default: 120000.0
+	# Range: 0.0 ~ 1.0E9
+	harpyKnightEP = 120000.0
+	#EP Required to evolve into a Divine Harpy
+	# Default: 650000.0
+	# Range: 0.0 ~ 1.0E9
+	divineHarpyEP = 650000.0
+	#EP Required to evolve into a Soul Harpy
+	# Default: 1200000.0
+	# Range: 0.0 ~ 1.0E9
+	soulHarpyEP = 1200000.0
+
+[enrokiEPRequirements]
+	#EP Required to evolve into an Apewolf Oni
+	# Default: 75000.0
+	# Range: 0.0 ~ 1.0E9
+	apewolfOniEP = 75000.0
+	#EP Required to evolve into a Dark Apewolf Oni
+	# Default: 200000.0
+	# Range: 0.0 ~ 1.0E9
+	darkApewolfOniEP = 200000.0
+	#EP Required to evolve into an Enroki
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	enrokiEP = 400000.0
+	#EP Required to evolve into a Divine Enroki
+	# Default: 1200000.0
+	# Range: 0.0 ~ 1.0E9
+	divineEnrokiEP = 1200000.0
+
+[otsutsukiclan]
+	#Minimum Possible EP for 
+	# Default: 10000.0
+	# Range: 10000.0 ~ 1.0E9
+	otsutsukiclanMinEP = 10000.0
+	#Maximum Possible EP for 
+	# Default: 2000000.0
+	# Range: 10000.0 ~ 1.0E9
+	otsutsukiclanMaxEP = 2000000.0
+	#Amount of EP required for 5 HP Gained
+	# Default: 1666.0
+	# Range: 0.0 ~ 1.0E9
+	otsutsukiclanHpIncrease = 1666.0
+	#Amount of EP required for 0.15 attack damage Gained
+	# Default: 20000.0
+	# Range: 0.0 ~ 1.0E9
+	otsutsukiclanDmgIncrease = 20000.0
+	#How much EP is required for a 0.05 Sprint speed Increase for 
+	# Default: 10000.0
+	# Range: 0.0 ~ 1.0E9
+	otsutsukiclanSprintSpeedIncrease = 10000.0
+	#How much EP is required for a 0.1 Attack speed Increase for 
+	# Default: 100000.0
+	# Range: 0.0 ~ 1.0E9
+	otsutsukiclanAtkSpeedIncrease = 100000.0
+
+[vividElfEPRequirements]
+	#EP Required to evolve into an Enlightened Vivid Elf
+	# Default: 100000.0
+	# Range: 0.0 ~ 1.0E9
+	enlightenedVividElfEP = 100000.0
+	#EP Required to evolve into a Saint Vivid Elf
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	saintVividElfEP = 400000.0
+	#Bosses required to evolve into a Saint Vivid Elf
+	# Default: 4
+	# Range: 0 ~ 10000
+	bossForSaintVividElf = 4
+	#EP Required to evolve into an Divine Vivid Elf
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	divineVividElfEP = 2000000.0
+
+[pitchElfEPRequirements]
+	#EP Required to evolve into an Ignorant Pitch Elf
+	# Default: 100000.0
+	# Range: 0.0 ~ 1.0E9
+	ignorantPitchElfEP = 100000.0
+	#EP Required to evolve into a Devil Pitch Elf
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	devilPitchElfEP = 400000.0
+	#Bosses required to evolve into a Devil Pitch Elf
+	# Default: 4
+	# Range: 0 ~ 10000
+	bossForDevilPitchElf = 4
+	#EP Required to evolve into an Vile Pitch Elf
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	vilePitchElfEP = 2000000.0
+
+[soulEaterEPRequirements]
+	#EP required to evolve from Meister into Evolved Meister
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	evolvedMeisterEP = 400000.0
+	#EP required to evolve from Soul Weapon into Evolved Weapon
+	# Default: 400000.0
+	# Range: 0.0 ~ 1.0E9
+	evolvedWeaponEP = 400000.0
+	#EP required to evolve from Evolved Meister into Witch Hunter Meister
+	# Default: 350000.0
+	# Range: 0.0 ~ 1.0E9
+	witchHunterMeisterEP = 350000.0
+	#EP required to evolve into Death Meister (from Evolved Meister, Evolved Weapon, or Witch Hunter)
+	# Default: 2000000.0
+	# Range: 0.0 ~ 1.0E9
+	deathMeisterEP = 2000000.0

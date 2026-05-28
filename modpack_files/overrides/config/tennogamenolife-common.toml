@@ -1,0 +1,25 @@
+#Skill Configuration
+[skills]
+	#Enable skill specialization feature
+	enableSkillSpecialization = true
+	#Multiplier for skill experience gain
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	skillExperienceMultiplier = 1.0
+	#Maximum level for skills
+	# Default: 100
+	# Range: 1 ~ 1000
+	maxSkillLevel = 100
+
+	#Enable or disable individual mod skills. Disabled skills cannot be obtained.
+	[skills.availability]
+		#Enable the Barrier skill
+		barrier = true
+		#Enable the Magic Beads skill
+		magic_beads = true
+		#Enable the Tengeki skill
+		tengeki = true
+		#Enable the Reisen skill
+		reisen = true
+		#Enable the Far Cry skill
+		far_cry = true
