@@ -73,3 +73,13 @@
 	spPerSub = 1
 	#Maximum number of Spiritrons that can be generated per 5 seconds.
 	spMax = 8
+
+[ForbiddenKnowledge]
+	#Magicule Acquirement Cost.
+	mpAcquirement = 10000.0
+	#Number of Existence Points the player must have to meet the natural requirements.
+	epRequirement = 1000000.0
+	#Number of Learning Points gained from Forbidden Knowledge.
+	learningPoint = 8.0
+	#Number of Mastery Points gained from Forbidden Knowledge.
+	masteryPoint = 8.0

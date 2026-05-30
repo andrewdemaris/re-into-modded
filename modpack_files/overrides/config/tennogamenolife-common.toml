@@ -23,3 +23,14 @@
 		reisen = true
 		#Enable the Far Cry skill
 		far_cry = true
+
+#Server Safety Rules for destructive ultimate skills (Tengeki / Reisen / Far Cry).
+[safety]
+	#If true, all destructive ultimate skills (Tengeki, Reisen, Far Cry) are completely disabled.
+	#Activations will be blocked and a chat message will inform the player.
+	#Default: false (skills enabled).
+	destructiveSkillsDisabled = false
+	#Safety fallback: if true, destructive ultimate skills will NOT damage blocks or modify terrain,
+	#even when the skills themselves are allowed to be cast (entity damage / VFX still apply).
+	#Recommended for hardcore PvP / survival servers that don't want griefing. Default: false (skills behave as designed).
+	preventTerrainDamage = false

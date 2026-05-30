@@ -12,9 +12,15 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Reincarnated into Modded Minecraft",
-  "version": "v0.3",
+  "version": "v0.4",
   "author": "",
   "files": [
+    {
+      "projectID": 1556707,
+      "fileID": 8162896,
+      "required": true,
+      "isLocked": false
+    },
     {
       "projectID": 1193532,
       "fileID": 7472926,
@@ -113,7 +119,7 @@
     },
     {
       "projectID": 1356920,
-      "fileID": 8055966,
+      "fileID": 8167755,
       "required": true,
       "isLocked": false
     },
@@ -185,7 +191,7 @@
     },
     {
       "projectID": 1253768,
-      "fileID": 8154448,
+      "fileID": 8165906,
       "required": true,
       "isLocked": false
     },
@@ -341,7 +347,7 @@
     },
     {
       "projectID": 1232792,
-      "fileID": 8101929,
+      "fileID": 8167760,
       "required": true,
       "isLocked": false
     },
@@ -406,14 +412,14 @@
       "isLocked": false
     },
     {
-      "projectID": 1542760,
-      "fileID": 8087867,
+      "projectID": 643695,
+      "fileID": 8098859,
       "required": true,
       "isLocked": false
     },
     {
-      "projectID": 643695,
-      "fileID": 8098859,
+      "projectID": 1542760,
+      "fileID": 8087867,
       "required": true,
       "isLocked": false
     }

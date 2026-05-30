@@ -1,0 +1,9 @@
+[MeltSlash]
+	#Cast time in seconds.
+	castTime = 6
+	#Magicule Cost to cast.
+	magiculeCost = 10000.0
+	#The nuclear damage of the strike.
+	nuclearDamage = 150.0
+	#Percentage of damage the cooks SHP.
+	cookPerc = 70.0

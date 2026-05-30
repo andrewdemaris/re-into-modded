@@ -15,3 +15,7 @@
 [AlteredGravity]
 	#amount of gravity damage dealt
 	gravityDamage = 18.0
+
+[AlteredHero]
+	#length of time in Seconds that haki coat will last
+	coatDuration = 60
