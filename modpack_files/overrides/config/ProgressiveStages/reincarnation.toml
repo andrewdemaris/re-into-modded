@@ -77,17 +77,6 @@ dependency = "vanilla"
 
 [items]
 locked = [
-    "mod:diamond",
-    "id:minecraft:diamond_pickaxe",
-    "id:minecraft:diamond_sword",
-    "id:minecraft:diamond_axe",
-    "id:minecraft:diamond_shovel",
-    "id:minecraft:diamond_hoe",
-    "id:minecraft:diamond_helmet",
-    "id:minecraft:diamond_chestplate",
-    "id:minecraft:diamond_leggings",
-    "id:minecraft:diamond_boots",
-
     # Tag example — locks every item tagged as a diamond gem across all mods.
     # "tag:c:gems/diamond",
 
@@ -117,9 +106,6 @@ always_unlocked = [
 
 [blocks]
 locked = [
-    "id:minecraft:diamond_block",
-    "id:minecraft:enchanting_table",
-    "id:minecraft:beacon",
     # "tag:minecraft:beacon_base_blocks",
     # "mod:ae2",
 ]
@@ -297,14 +283,14 @@ always_unlocked = [
 # ----------------------------------------------------------------------------
 
 [[interactions]]
-type = "block_right_click"
-target_block = "minecraft:enchanting_table"
-description = "Use Enchanting Table"
+# type = "block_right_click"
+# target_block = "minecraft:enchanting_table"
+# description = "Use Enchanting Table"
 
 [[interactions]]
-type = "block_right_click"
-target_block = "minecraft:beacon"
-description = "Configure Beacon"
+# type = "block_right_click"
+# target_block = "minecraft:beacon"
+# description = "Configure Beacon"
 
 # [[interactions]]
 # type = "item_on_block"
@@ -366,7 +352,7 @@ locked = [
 
 [mobs]
 locked_spawns = [
-    "id:minecraft:creeper",
+    # "id:minecraft:creeper",
     # "mod:borninchaos_v1",
     # "tag:minecraft:raiders",
 ]
@@ -490,10 +476,10 @@ locked_entry = [
 ]
 
 [structures.rules]
-prevent_block_break = false
-prevent_block_place = false
-prevent_explosions = false
-disable_mob_spawning = false
+# prevent_block_break = false
+# prevent_block_place = false
+# prevent_explosions = false
+# disable_mob_spawning = false
 
 
 # ============================================================================
