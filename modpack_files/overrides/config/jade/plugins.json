@@ -94,11 +94,11 @@
   "createlowheated": {
     "basic_burner_info": true
   },
+  "mysticalagradditions": {
+    "infused_farmland": true
+  },
   "waystones": {
     "waystone": true
-  },
-  "astages": {
-    "block_component_provider": true
   },
   "cookingforblockheads": {
     "fridge": true,
@@ -107,5 +107,10 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   }
 }

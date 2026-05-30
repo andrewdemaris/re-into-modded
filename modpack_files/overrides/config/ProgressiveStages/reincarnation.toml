@@ -1,0 +1,15 @@
+[stage]
+# The stage ID. Should match the filename without ".toml". Lower-case,
+# no spaces. Must be unique across all stage files in the pack.
+id = "reincarnation"
+
+# Human-readable name shown in the lock message, stage list, EMI tooltip, etc.
+# Supports &-codes for color/formatting when displayed.
+display_name = "Reincarnation"
+
+# Free-form one-liner. Used by FTB Quests integration and optional GUIs.
+description = "Modded Minecraft."
+
+# Item shown in the lock icon overlay and anywhere else a stage is rendered
+# visually. Must be a valid item ID.
+icon = "minecraft:diamond_pickaxe"

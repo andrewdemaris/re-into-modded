@@ -111,6 +111,16 @@
 	predationEPSteal = 0.8
 	#The amount of EP that the user drains from target using the Predation Mode.
 	predationEPDrain = 5000.0
+	#The range in blocks for targeting a subordinate in Provide Mode.
+	provideRange = 5
+	#The cooldown in ticks between uses of Provide Mode.
+	provideCooldown = 1200
+	#The cooldown in ticks between uses of Provide Mode when mastered.
+	provideCooldownMastered = 300
+	#Cost of provide % 0.9 = 90% magicules
+	provideCostPercentage = 0.9
+	#Cost of Receive % 0.9 = 90% magicules
+	magiculeCostPercentageReceive = 0.5
 
 [VoidSovereign]
 	#Magicule Acquirement Cost.
@@ -182,3 +192,15 @@
 	lastStandImmunityTicks = 30
 	lastStandResistanceAmplifier = 4
 	lastStandInternalCooldownTicks = 15
+	enabled = true
+	epAcquirement = 20000.0
+
+[Scavenger]
+	#Magicule cost to learn Scavenger.
+	mpAcquirement = 500.0
+	#Luck amplifier for unmastered holders (0=Luck I, 1=Luck II, 2=Luck III). Default: 1 = Luck II.
+	baseLuckAmplifier = 1
+	#Luck amplifier for mastered holders with toggle active (0=Luck I, 1=Luck II, 2=Luck III). Default: 2 = Luck III.
+	masteredLuckAmplifier = 2
+	enabled = true
+	epAcquirement = 15000.0
